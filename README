@@ -1,0 +1,5 @@
+These files contain the keys necessary for encrypting/decrypting/signing
+files for the PS3.
+They are compatible with fail0verflow's ps3tools.
+Copy these files to you ~/.ps3/ directory for them to be used.
+These files were created by Xtse from the keys spreadsheet on google.
